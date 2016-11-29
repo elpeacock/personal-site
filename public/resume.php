@@ -37,7 +37,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="personal.php">Liz Peacock</a>
+                <a class="navbar-brand" href="index.php">Liz Peacock</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -273,7 +273,7 @@
             </div>
         </div><!--//container-->
     </footer><!--//footer-->
-    
+
 <!-- FontAwesome -->
 <script src="https://use.fontawesome.com/0d9255860f.js"></script>
 <!-- Javascript -->          
