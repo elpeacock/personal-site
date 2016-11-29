@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style type="text/css">
+        .container {
+            background-color: #6495ED;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            border-radius: 20px;
+        }
+        .col-sm-3 {
+            text-align: center;
+            background-color: #DEB887;
+            border: 2px solid black;
+            border-radius: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            padding-bottom: 10px;
+        }
+        .form-group {
+            visibility: hidden;
+        }
+        .text-center {
+            margin-bottom: 40px;
+        }
+        #map-holder {
+            height: 500px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        #drag {
+            margin-top: 20px;
+        }
+    </style>
+    <title>Weather Map</title>
+</head>
+<body>
+<div class="container">
+    <h1>Weather Map App</h1>
+    <h2 id="forecast"></h2>
+    <h3 id="city-name"></h3>
+    <div class="center-block">
+        <div class="row" id="content"></div>
+    </div>
+    <div id="input">
+        <h3 id="drag">Drag pin for forecast!</h3>
+        <form class="form-inline">
+            <button class="btn btn-default" id="submit">Get Weather</button>
+            <div class="form-group">
+                <label for="latitude">Latitude</label>
+                <input type="text" class="form-control" id="latitude" placeholder="latitude">
+            </div>
+            <div class="form-group">
+                <label for="longitude">Longitude</label>
+                <input type="text" class="form-control" id="longitude" placeholder="longitude">
+            </div>
+        </form> 
+    </div>
+    <div id="map-holder"></div>
+</div>
+<div class="text-center">
+    <a href="/../../personal.php#portfolio">Go Back</a>
+</div>
+
+<!-- jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- bootstrap JS -->
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAC2XAPq6ZjXTQIx9KQ96emBtVFNGn9cIg"></script>
+<script type="text/javascript" src="js/weather_map.js"></script>
+</body>
+</html>

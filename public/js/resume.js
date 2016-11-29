@@ -19,7 +19,9 @@ jQuery(document).ready(function($) {
         });
 
     });
-   
+    
+    $('#resume-wrap').show('fold', 1000);
+    
     
 
 });
