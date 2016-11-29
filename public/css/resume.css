@@ -18,6 +18,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* Nav bar */
 ul.nav.navbar-nav {
     float: right;
 }

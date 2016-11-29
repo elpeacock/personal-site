@@ -40,19 +40,19 @@
                 <a class="navbar-brand" href="index.php">Liz Peacock</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
                         <a href="#">CV/Resume</a>
                     </li>
                     <li>
-                        <a href="/portfolio.php">Portfolio</a>
+                        <a href="index.php/#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a href="/contact.php">Contact</a>
+                        <a href="index.php/#blog">Blog</a>
                     </li>
                 </ul>
-            </div> -->
+            </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
@@ -116,7 +116,7 @@
         <div class="main-wrapper">
             
             <section class="section summary-section">
-                <h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
+                <h2 class="section-title"><i class="fa fa-user"></i>About Me</h2>
                 <div class="summary">
                     <p>Growing up, I was the type of kid that wanted to do everything. I rarely gave the same answer when people asked what I wanted to be when I grew up because I had such a wide range of interests. The wide ranging interests and adventurous spirit have remained over time, and I have a wide range of professional experiences in the customer/social services sector to go along with that. I recently opted to make a career change and pursue my passion for all things tech and packed up and moved to San Antonio, TX from my home state of Wyoming in order to attend a full-stack web development program at <a href="http://codeup.com">Codeup</a>. During four quick months in the course, I put in over 536 hours learning HTML, CSS, UI/UX and mobile responsiveness, Javascript, Jquery, AJAX and API implementation, PHP, mySQL, OOP, and the MVC framework Laravel. I finished the program in November, 2016 and am looking forward to joining a development team using Agile methodologies while working towards mastering my current skill set and continuing to develop as a programmer by learning new javascript libraries and additional programmaing languages.</p>
                 </div><!--//summary-->
@@ -186,17 +186,17 @@
                 </div><!--//intro-->
 
                 <div class="item">
-                    <span class="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">Weather Map</a></span> - 
+                    <span class="project-title"><a href="/projects/weather/weather_map.html" target="_blank">Weather Map</a></span> - 
                     <span class="project-tagline">A responsive weather map, built with JQuery, JavaScript and the Open Weather Map and Google Maps API's, where you can get a three day weather forecast for anywhere in the world. </span>
                 </div><!--//item-->
                 <div class="item">
-                    <span class="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">Simple Simon</a></span> - <span class="project-tagline">A throwback to the early 90's, modeled after the original Simon game, built with JavaScript and JQuery.</span>
+                    <span class="project-title"><a href="/projects/simon/index.html" target="_blank">Simple Simon</a></span> - <span class="project-tagline">A throwback to the early 90's, modeled after the original Simon game, built with JavaScript and JQuery.</span>
                 </div><!--//item-->
                 <div class="item">
-                    <span class="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">Kitchen Kweendom</a></span> - <span class="project-tagline">An adlister project, created with a classmate, that 'sells' fun and funky kitchen gadgets. The back end was coded entirely in vanilla PHP and uses mySQL for database implementation. The front end was done with Twitter Bootstrap and custom CSS and is fully mobile responsive.</span>
+                    <span class="project-title">Kitchen Kweendom</span> - <span class="project-tagline">An adlister project, created with a classmate, that 'sells' fun and funky kitchen gadgets. The back end was coded entirely in vanilla PHP and uses mySQL for database implementation. The front end was done with Twitter Bootstrap and custom CSS and is fully mobile responsive.</span>
                 </div><!--//item-->
                 <div class="item">
-                    <span class="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">Showup.rocks</a></span> - <span class="project-tagline">Using the MVC framework Laravel, ShowUp.rocks was built in a team of three over the course of a two week sprint. We set out to create a place where concert-goers could find out about upcoming shows, discover new artists and allow local/underground bands to get the word out about their events. The back end was done with PHP and mySQL, and object-oriented programming was used in order to model the relationships between many database tables. The front end utilized Javascript, Jquery, Twitter Bootstrap, and custom CSS as well as several ajax requests to various API's.</span>
+                    <span class="project-title"><a href="http://showup.rocks" target="_blank">Showup.rocks</a></span> - <span class="project-tagline">Using the MVC framework Laravel, ShowUp.rocks was built in a team of three over the course of a two week sprint. We set out to create a place where concert-goers could find out about upcoming shows, discover new artists and allow local/underground bands to get the word out about their events. The back end was done with PHP and mySQL, and object-oriented programming was used in order to model the relationships between many database tables. The front end utilized Javascript, Jquery, Twitter Bootstrap, and custom CSS as well as several ajax requests to various API's.</span>
                 </div><!--//item-->
             </section><!--//section-->
             
