@@ -135,7 +135,7 @@
                     </div><!--//meta-->
                     <div class="details">
                         <p>Work in a Direct Support capacity in a group home for adults with physical and developmental disabilities. Had a full spectrum of responsibilities ranging from keeping track of individual client schedules and providing transportation, to physical assistance with personal hygiene and medication administration, to teaching basic life skills in the home such as cooking, cleaning and personal relationships. </p>  
-                        <p>In this position I developed a high level of patience and communication skills, as well as reinforced previously learned teaching techniques and relationship development skills. Additionally, I observed client behaviors, progress and accomplishments and maintained and updated client records while ensuring HIPPA compliance. I also was a volunteer representative for the company wide safety committee that worked to evaluate and improve client and staff safety. </p>
+                        <p>In this position I developed excellent communication skills, as well as reinforced previously learned teaching techniques and relationship development skills. Additionally, I observed client behaviors, progress and accomplishments and maintained and updated client records while ensuring HIPPA compliance. I also was a volunteer representative for the company wide safety committee that worked to evaluate and improve client and staff safety. </p>
                     </div><!--//details-->
                 </div><!--//item-->
                 
@@ -161,7 +161,7 @@
                         <div class="company">Jackson Hole Mountain Resort - Jackson, WY</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Taught children (ages 3-6) how to ski. Provided instruction in the safe use of all equipment and safety on the mountain. Developed patience, teaching techniques and excellent teamwork skills as the instructors worked closely with each other. </p>  
+                        <p>Taught children (ages 3-6) how to ski. Provided instruction in the safe use of all equipment and safety on the mountain. Developed teaching techniques and excellent teamwork skills as the instructors worked closely with each other. </p>  
                     </div><!--//details-->
                 </div><!--//item-->
                 
