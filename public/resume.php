@@ -207,7 +207,7 @@
                     <div class="item">
                         <h3 class="level-title">Javascript &amp; jQuery</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="70%">
+                            <div class="level-bar-inner" data-level="60%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
@@ -215,7 +215,7 @@
                     <div class="item">
                         <h3 class="level-title">HTML5 &amp; CSS</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="85%">
+                            <div class="level-bar-inner" data-level="80%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
@@ -223,7 +223,15 @@
                     <div class="item">
                         <h3 class="level-title">PHP</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="72%">
+                            <div class="level-bar-inner" data-level="70%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">Java</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="45%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
@@ -231,7 +239,7 @@
                     <div class="item">
                         <h3 class="level-title">mySQL</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="68%">
+                            <div class="level-bar-inner" data-level="65%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
@@ -239,7 +247,15 @@
                     <div class="item">
                         <h3 class="level-title">Laravel Framework</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="75%">
+                            <div class="level-bar-inner" data-level="60%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">Spring Framework</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="50%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
@@ -247,7 +263,7 @@
                     <div class="item">
                         <h3 class="level-title">Linux Command Line/Bash/Shell</h3>
                         <div class="level-bar">
-                            <div class="level-bar-inner" data-level="80%">
+                            <div class="level-bar-inner" data-level="75%">
                             </div>                                      
                         </div><!--//level-bar-->                                 
                     </div><!--//item-->
