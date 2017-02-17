@@ -299,7 +299,7 @@
     <footer class="footer">
         <div class="text-center">
             <div>
-                <small class="copyright">A condensed PDF version can be found <a href="/addons/Peacock_Resume_2016.pdf" download>here</a></small>
+                <small class="copyright">A condensed PDF version can be found <a href="/addons/Peacock_Resume.pdf" download>here</a></small>
             </div>
         </div><!--//container-->
     </footer><!--//footer-->
