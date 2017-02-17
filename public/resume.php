@@ -128,6 +128,20 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
+                            <h3 class="job-title">Student Fellow</h3>
+                            <div class="time">2016 - Current</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Codeup - San Antonio, TX</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Upon completion of the Codeup LAMP-J program in November 2016, I was asked to come back as a Student Fellow and assist a future cohort in the classroom. </p>  
+                        <p>In this position I assist the Codeup instructors and staff with classroom instruction, record keeping, and other miscellaneous projects. Additionally, I work with current students in class and during study halls, as well as providing mentorship and support outside of the classroom. I have also had the opportunity to further develop my programming skills by learning Java and the Spring Framework. </p>
+                    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
                             <h3 class="job-title">Direct Support Staff</h3>
                             <div class="time">2012 - 2015</div>
                         </div><!--//upper-row-->
